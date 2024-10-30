@@ -1,8 +1,7 @@
-# React + Vite
+# Área do Administrador / Loja Virtual
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Área do administrador da loja virtual desenvolvida durante a disciplina de Desenvolvimento Web Avançado no Ifes Cachoeiro.
 
-Currently, two official plugins are available:
+Repositório da loja virtual: https://github.com/DouglasAltoe/LojaVirtualAtividade.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Atividade realizada por Douglas Altoé Stein da Silva e Diego Chaves Ravani.
